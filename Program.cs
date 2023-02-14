@@ -19,6 +19,8 @@ namespace uçgen_çizme
                 Console.WriteLine();
             }
             Console.Read();
+
+            //olmuşş sayılırr
         }
     }
 }
